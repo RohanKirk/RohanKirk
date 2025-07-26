@@ -2,7 +2,6 @@
 <p align="center">
 <img src="https://github.com/RohanKirk/RohanKirk/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
-
 [![](https://visitcountpro.netlify.app/api?id=RohanKirk&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
