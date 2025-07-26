@@ -1,4 +1,9 @@
 ## Hi there 👋
+<p align="center">
+<img src="https://github.com/RohanKirk/RohanKirk/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+[![](https://visitcountpro.netlify.app/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **RahulKushle/RahulKushle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
