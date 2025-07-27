@@ -5,6 +5,8 @@
 
 [![](https://visitcountpro.netlify.app/api?id=RohanKirk&pretty=true)](https://visitcount.itsvg.in)
 
+![](https://komarev.com/ghpvc/?username=RohanKirk)
+
 <!--
 **RahulKushle/RahulKushle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
