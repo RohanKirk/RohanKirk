@@ -1,30 +1,71 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Shrijeet Kushle</h1>
+<h3 align="center">Frontend Developer | React.js | Web Developer Intern at CodSoft</h3>
+
+---
+
+<!-- Badges -->
 <p align="center">
-<img src="https://github.com/RohanKirk/RohanKirk/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://komarev.com/ghpvc/?username=shrijeetkushle&label=Profile%20Views&color=brightgreen&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/shrijeetkushle?label=Followers&style=flat" alt="followers" />
+  <img src="https://img.shields.io/github/stars/shrijeetkushle?label=Stars&style=flat" alt="stars" />
 </p>
 
-[![](https://visitcountpro.netlify.app/api?id=RohanKirk&pretty=true)](https://visitcount.itsvg.in)
+---
 
+<!-- Github Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shrijeetkushle&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</div>
 
-![](https://komarev.com/ghpvc/?username=RohanKirk)
+---
 
-<!--
-**RahulKushle/RahulKushle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub Stats -->
+<div align="center">
 
-Here are some ideas to get you started:
+  <!-- Left: Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shrijeetkushle&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="48%" 
+    alt="GitHub Stats"
+  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_Rahulkushle/count.svg" />
+  <!-- Right: Most Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrijeetkushle&layout=compact&theme=tokyonight&hide_border=true" 
+    width="48%" 
+    alt="Top Languages"
+  />
+
+</div>
+
+---
+
+<!-- GitHub Streak -->
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=shrijeetkushle&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</div>
+
+---
+
+<!-- Tools & Tech -->
+### 🔧 Technologies & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vscode,figma" />
 </p>
--->
+
+---
+
+<!-- Connect -->
+### 📫 Connect with me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/shrijeetkushle" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  <a href="mailto:shrijeetkushle@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
+</p>
