@@ -1,3 +1,1 @@
-<div align="center">
-  <img src="https://your-app-name.vercel.app/?username=shrijeetkushle&theme=onedark" alt="GitHub Trophies" />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shrijeetkushle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
